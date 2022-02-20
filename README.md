@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcodev05
-- 👀 I’m interested in application developpement with java and Javascript
+- 👀 I’m interested in application development with java and Javascript
 
 
 <!---
