@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marco
-- 👀 I’m interested in application development with java and Javascript
+- 👀 Welcome to the Java and JavaScript Developer Repository!
 
 
 <!---
