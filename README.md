@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marco
-- 👀 Welcome to the Java and JavaScript Developer Repository!
+- 👀 Welcome to the Java/Angular Developer Repository!
 
 
 <!---
